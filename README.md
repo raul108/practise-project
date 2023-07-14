@@ -1,1 +1,1 @@
-# practise-project
+# Customer segmentation project
